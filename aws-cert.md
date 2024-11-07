@@ -24,3 +24,9 @@ A 10x Solutions Architect and Application Architect brings value to an organizat
 In essence, a 10x developer in these roles isn’t simply managing technology—they are actively shaping the way technology empowers the organization.
 
 ![Screenshot 2024-11-06 at 10 24 54](https://github.com/user-attachments/assets/a23ec28f-fd64-4bee-b244-5cdada5d7790)
+
+### AWS Hands-On Labs and Practice
+
+- [AWS Skill Builder Labs](https://explore.skillbuilder.aws/) – Interactive labs by AWS.
+- [Qwiklabs AWS Quests](https://www.qwiklabs.com/) – Hands-on exercises for AWS services.
+- [FreeCodeCamp AWS Labs](https://www.freecodecamp.org/) – Free hands-on tutorials.
